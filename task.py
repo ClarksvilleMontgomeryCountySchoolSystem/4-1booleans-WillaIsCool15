@@ -28,3 +28,21 @@ not_wearing_hat = False     # You have a hat on your head.
 
 # Question: "Did you NOT forget your homework?"
 not_forgot_homework = False    # You forgot your homework.
+
+
+# Question: "Are you NOT tired?"
+not_tired = True   # You don't need a nap.
+
+
+# Question: "Do you NOT have a pencil?"
+not_have_pencil = False     # You have a pencil
+
+
+# Question: "Are you NOT sitting by the teacher's desk?"
+not_in_front = False    # " Yes and the fridge too."
+
+
+
+# REFLECTION: Discuss with your partner
+# Which variable names were easiest to work with? Why?
+# Which were most confusing? Why?
